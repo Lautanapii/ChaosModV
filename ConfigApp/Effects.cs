@@ -413,6 +413,7 @@
             { "screen_realfp", new EffectInfo("Real First Person", EffectCategory.Screen, true) },
             { "screen_hueshift", new EffectInfo("Hue Shift", EffectCategory.Screen, true) },
             { "player_copyforce", new EffectInfo("Use The Force", EffectCategory.Player, true, true) },
+            { "SpawnAttackerTank", new EffectInfo("SpawnAttackerTank", EffectCategory.Peds) },
         };
     }
 }
